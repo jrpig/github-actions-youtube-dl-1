@@ -2,7 +2,8 @@
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4
 --output downloads/%(title)s_%(id)s.%(ext)s
 --continue
-
+https://www.youtube.com/watch?v=sYwmAU3SPMg&ab_channel=kpophyung
+https://www.youtube.com/watch?v=YFji__b1TIo&ab_channel=%E3%83%B3Priki_Eunsang%E3%83%B3
 # --write-description
 # --write-info-json
 # --write-thumbnail
