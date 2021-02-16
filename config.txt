@@ -2,8 +2,13 @@
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4
 --output downloads/%(title)s_%(id)s.%(ext)s
 --continue
-https://www.youtube.com/watch?v=sYwmAU3SPMg&ab_channel=kpophyung
-https://www.youtube.com/watch?v=YFji__b1TIo&ab_channel=%E3%83%B3Priki_Eunsang%E3%83%B3
+https://www.youtube.com/watch?v=nQmkRTektsA&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=QAxrHUSuwe4&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=LttFt1XBDvw&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=py3KCc9tmcI&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=0Yk1w8Ed2yo&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=9jWp0lT4q-4&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
+https://www.youtube.com/watch?v=w8zEOnmecp0&t=19s&ab_channel=%E5%B0%8F%E5%B2%9B%E5%A4%A7%E6%B5%AA%E5%90%B9-%E9%9D%9E%E6%AD%A3%E7%BB%8F%E6%94%BF%E7%BB%8F%E9%A2%91%E9%81%93
 # --write-description
 # --write-info-json
 # --write-thumbnail
